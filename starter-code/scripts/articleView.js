@@ -131,3 +131,9 @@ articleView.initIndexPage = function() {
   articleView.handleMainNav();
   articleView.setTeasers();
 };
+
+// $('#make-button').on('click', function(){
+//   if($('#export-field').val()){
+//     rawData.push($('#export-field').val());
+//   }
+// });
